@@ -2,9 +2,9 @@
 
 ## Más de 50 ejercicios de programación resueltos y pruebas técnicas explicadas (Comunes en Entrevistas de Desarrollador)
 
-Máster en Lógica de Programación, en el que aprenderás a resolver todo tipo de ejercicios de programación y pruebas técnicas comunes en entrevistas de trabajo para el puesto de programador.
+Máster en Lógica de Programación explicado por **Víctor Robles**, en el que se resuelve todo tipo de ejercicios de programación y pruebas técnicas comunes en entrevistas de trabajo para el puesto de programador.
 
-Este no es un curso cualquiera, estás ante un máster completo que contiene:
+Este máster contiene:
 - Más de 50 ejercicios de programación, explicados y resueltos paso a paso.
 - Pruebas comunes en entrevistas técnicas.
 - Resolver algoritmos.
@@ -13,9 +13,7 @@ Este no es un curso cualquiera, estás ante un máster completo que contiene:
 - Tests y pruebas de código.
 - Habilidades de programación, haciendo decenas de ejercicios bien explicados, desde cero.
 
-Si quieres ser programador o desarrollador web profesional y estas intentando conseguir trabajo es casi obligatorio estar preparado para las pruebas y ejercicios de las entrevistas técnicas que nos hacen a los programadores.
-
-La metodología de aprendizaje es la ideal:
+La metodología de aprendizaje que aplica es la siguiente:
 
 - Todo explicado desde cero y paso a paso.
 - Muchas horas de contenido en clases en vídeo (8 horas y subiendo).
@@ -31,9 +29,9 @@ Al finalizar el curso:
 - Conocerás nuevas funciones y métodos de JavaScript.
 - Y mucho más.
 
-Durante las más de 8 horas del curso verás como desarrollar varios ejercicios con retos de desarrollo de lo más variopintos que harán que tu lógica se estimule mientras creas los algoritmos y programas que se proponen.
+Durante las más de 8 horas del curso verás cómo desarrollar varios ejercicios con retos de desarrollo de lo más variopintos que harán que tu lógica se estimule mientras creas los algoritmos y programas que se proponen.
 
-Trataremos todos los temas paso a paso y poco a poco para entender perfectamente cada uno de los ejercicios de programación y desarrollo de software.
+Se tratarán todos los temas paso a paso y poco a poco para entender perfectamente cada uno de los ejercicios de programación y desarrollo de software.
 
 Para aprovechar al 100% el curso te recomendamos tener conocimientos básicos de programación con algún lenguaje de programación, preferiblemente JavaScript. Pero realmente no necesitar tener ningún conocimiento avanzado.
 
